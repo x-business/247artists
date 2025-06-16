@@ -170,12 +170,12 @@ Uri: https://247artists.vercel.app//wp-content/themes/creatorspc/static/favicon/
 File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\favicon\apple-touch-icon.png
 Content Type: image/png
 
-Uri: https://247artists.vercel.app//wp-content/themes/creatorspc/static/favicon/favicon-96x96.png
-File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\favicon\favicon-96x96.png
+Uri: https://247artists.vercel.app//wp-content/themes/creatorspc/static/favicon/tapedotpink_logo_96x96.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\favicon\tapedotpink_logo_96x96.png
 Content Type: image/png
 
-Uri: https://247artists.vercel.app//wp-content/themes/creatorspc/static/favicon/favicon.ico
-File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\favicon\favicon.ico
+Uri: https://247artists.vercel.app//wp-content/themes/creatorspc/static/favicon/tapedotpink_logo_16x16.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\favicon\tapedotpink_logo_16x16.png
 Content Type: image/x-icon
 
 Uri: https://247artists.vercel.app//wp-content/themes/creatorspc/static/favicon/favicon.svg
