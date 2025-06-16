@@ -1,0 +1,1020 @@
+Uri: https://247artists.com/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/about-us/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/ai-music-is-coming-but-whos-getting-paid/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\ai-music-is-coming-but-whos-getting-paid\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/blog/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/category/industry-insights/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\category\industry-insights\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/category/the-process/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\category\the-process\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/event/artist-showcase-kelkoe-x-nim-live/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\event\artist-showcase-kelkoe-x-nim-live\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/events/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\events\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/how-to-get-your-music-featured-on-spotify-playlists-and-music-blogs/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\how-to-get-your-music-featured-on-spotify-playlists-and-music-blogs\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/legal-notice/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\legal-notice\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/memberships/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\memberships\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/music-funding-for-independent-artists-grants-crowdfunding-and-more/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\music-funding-for-independent-artists-grants-crowdfunding-and-more\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/why-we-started-24-7-artists/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\why-we-started-24-7-artists\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/workshops/
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\workshops\index.htm
+Content Type: text/html
+
+Uri: https://247artists.com/wp-content/mu-plugins/vendor/wpex/godaddy-launch/includes/Dependencies/GoDaddy/Styles/build/latest.css?ver=2.0.2
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\mu-plugins\vendor\wpex\godaddy-launch\includes\Dependencies\GoDaddy\Styles\build\latest.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/plugins/incredibles-cookie-consent/assets/css/front.css?ver=1.1.1
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\plugins\incredibles-cookie-consent\assets\css\front.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/plugins/incredibles-cookie-consent/assets/js/front.min.js?ver=1.1.1
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\plugins\incredibles-cookie-consent\assets\js\front.min.js
+Content Type: text/javascript
+
+Uri: https://247artists.com/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\plugins\wp-rocket\assets\js\wpr-beacon.min.js
+Content Type: text/javascript
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/b-nav-wrapper.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\b-nav-wrapper.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/btn-cta.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\btn-cta.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/btn-simple.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\btn-simple.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/s-hero-article.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\s-hero-article.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/s-hero-event.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\s-hero-event.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/s-hero-events.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\s-hero-events.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/s-hero-home.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\s-hero-home.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/s-hero-lp.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\s-hero-lp.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/site-foot-alt.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\site-foot-alt.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/site-foot.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\site-foot.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/site-head-home.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\site-head-home.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/site-head.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\site-head.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/components/site-scrollbar.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\components\site-scrollbar.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/layouts/article.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\layouts\article.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/layouts/articles.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\layouts\articles.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/layouts/event.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\layouts\event.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/layouts/flexible-page.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\layouts\flexible-page.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/layouts/front-page.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\layouts\front-page.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/layouts/page.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\layouts\page.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/main.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\main.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/css/no-script.css?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\css\no-script.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/js/main.js?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\js\main.js
+Content Type: text/javascript
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/js/npm-gsap.js?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\js\npm-gsap.js
+Content Type: text/javascript
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/build/js/npm-luge.js?ver=966232685
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\build\js\npm-luge.js
+Content Type: text/javascript
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/favicon/apple-touch-icon.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/favicon/favicon-96x96.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\favicon\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/favicon/favicon.ico
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/favicon/favicon.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\favicon\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/fonts/gellix.css?ver=1.0.0
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\fonts\gellix.css
+Content Type: text/css
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/fonts/gellix/Gellix-Medium.woff
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\fonts\gellix\Gellix-Medium.woff
+Content Type: font/woff
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/fonts/gellix/Gellix-Medium.woff2
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\fonts\gellix\Gellix-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/fonts/gellix/Gellix-Regular.woff
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\fonts\gellix\Gellix-Regular.woff
+Content Type: font/woff
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/fonts/gellix/Gellix-Regular.woff2
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\fonts\gellix\Gellix-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/fonts/gellix/Gellix-SemiBold.woff
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\fonts\gellix\Gellix-SemiBold.woff
+Content Type: font/woff
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/fonts/gellix/Gellix-SemiBold.woff2
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\fonts\gellix\Gellix-SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/globe-black.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\globe-black.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-close-search.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-close-search.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-glob.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-glob.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-menu-arrow.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-menu-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-note.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-note.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-pin.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-pin.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-quote.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-quote.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-search.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-search.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-select-arrow.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-select-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-social-facebook.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-social-facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-social-instagram.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-social-instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-social-x.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-social-x.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-social-youtube.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-social-youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/icon-star.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\icon-star.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/logo-247.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\logo-247.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/logo-247artists.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\logo-247artists.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/pin-black.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\pin-black.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/tick-black.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\tick-black.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/tick-pink.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\tick-pink.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/tick-white.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\tick-white.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/themes/creatorspc/static/images/warning-black.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\themes\creatorspc\static\images\warning-black.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/01/image-83-720x720.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\01\image-83-720x720.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/00-ld.mp4
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\00-ld.mp4
+Content Type: video/mp4
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/01-ld.mp4
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\01-ld.mp4
+Content Type: video/mp4
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/02-ld.mp4
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\02-ld.mp4
+Content Type: video/mp4
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/03-ld.mp4
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\03-ld.mp4
+Content Type: video/mp4
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/2-720x1079.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\2-720x1079.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Agreements-v1-720x721.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Agreements-v1-720x721.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Agreements-v2-720x721.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Agreements-v2-720x721.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Build-website-1920x1920.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Build-website-1920x1920.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Build-website-e1740693194819-1280x1406.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Build-website-e1740693194819-1280x1406.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Build-website-e1740693194819-137x150.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Build-website-e1740693194819-137x150.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Build-website-e1740693194819-720x791.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Build-website-e1740693194819-720x791.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Build-website-e1740693194819.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Build-website-e1740693194819.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Catalog-v1-720x720.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Catalog-v1-720x720.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Catalog-v2-720x721.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Catalog-v2-720x721.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/dsc01130_53897734379_o-720x480.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\dsc01130_53897734379_o-720x480.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Gabrielle-Current-Release-Secured-150x150.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Gabrielle-Current-Release-Secured-150x150.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Kelkoe-150x150.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Kelkoe-150x150.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Kennedy-Ryon.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Kennedy-Ryon.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/King-Cooley-Release-Secured.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\King-Cooley-Release-Secured.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Mannywellz-Release-Secured.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Mannywellz-Release-Secured.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Payments-v1-720x721.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Payments-v1-720x721.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Payments-v2-720x721.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Payments-v2-720x721.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Perform-720x900.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Perform-720x900.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Sarah-150x150.webp
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Sarah-150x150.webp
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Song-Registration-v1-720x721.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Song-Registration-v1-720x721.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Song-Registration-v2-720x720.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Song-Registration-v2-720x720.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Splits-v1-720x721.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Splits-v1-720x721.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Splits-v2-720x721.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Splits-v2-720x721.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Testimonial-Manny-150x150.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Testimonial-Manny-150x150.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/02/Trey-Kams-Release-Secured.jpeg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\02\Trey-Kams-Release-Secured.jpeg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/25529293671_fa8a32d8ff_c-150x101.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\25529293671_fa8a32d8ff_c-150x101.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/25529293671_fa8a32d8ff_c-480x325.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\25529293671_fa8a32d8ff_c-480x325.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/25529293671_fa8a32d8ff_c-720x487.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\25529293671_fa8a32d8ff_c-720x487.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/25529293671_fa8a32d8ff_c.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\25529293671_fa8a32d8ff_c.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/27991765120_169ed8453a_c-150x100.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\27991765120_169ed8453a_c-150x100.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/27991765120_169ed8453a_c-480x320.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\27991765120_169ed8453a_c-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/27991765120_169ed8453a_c-720x480.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\27991765120_169ed8453a_c-720x480.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/27991765120_169ed8453a_c.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\27991765120_169ed8453a_c.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/41238697775_89ecf9ed6a_k-1280x853.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\41238697775_89ecf9ed6a_k-1280x853.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/41238697775_89ecf9ed6a_k-150x100.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\41238697775_89ecf9ed6a_k-150x100.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/41238697775_89ecf9ed6a_k-1920x1280.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\41238697775_89ecf9ed6a_k-1920x1280.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/41238697775_89ecf9ed6a_k-480x320.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\41238697775_89ecf9ed6a_k-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/41238697775_89ecf9ed6a_k-720x480.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\41238697775_89ecf9ed6a_k-720x480.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/49174799737_ab8c45405d_c-150x100.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\49174799737_ab8c45405d_c-150x100.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/49174799737_ab8c45405d_c-480x321.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\49174799737_ab8c45405d_c-480x321.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/49174799737_ab8c45405d_c-720x481.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\49174799737_ab8c45405d_c-720x481.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/49174799737_ab8c45405d_c.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\49174799737_ab8c45405d_c.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/53596861777_b8be54b348_k-1280x853.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\53596861777_b8be54b348_k-1280x853.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/53596861777_b8be54b348_k-150x100.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\53596861777_b8be54b348_k-150x100.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/53596861777_b8be54b348_k-1920x1280.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\53596861777_b8be54b348_k-1920x1280.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/53596861777_b8be54b348_k-480x320.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\53596861777_b8be54b348_k-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/53596861777_b8be54b348_k-720x480.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\53596861777_b8be54b348_k-720x480.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/53897516349_e5269a14d1_k-1280x854.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\53897516349_e5269a14d1_k-1280x854.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/53897516349_e5269a14d1_k-150x100.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\53897516349_e5269a14d1_k-150x100.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/53897516349_e5269a14d1_k-1920x1281.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\53897516349_e5269a14d1_k-1920x1281.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/53897516349_e5269a14d1_k-480x320.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\53897516349_e5269a14d1_k-480x320.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/53897516349_e5269a14d1_k-720x480.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\53897516349_e5269a14d1_k-720x480.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/54004743121_4199d55269_k-1280x852.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\54004743121_4199d55269_k-1280x852.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/54004743121_4199d55269_k-150x100.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\54004743121_4199d55269_k-150x100.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/54004743121_4199d55269_k-1920x1278.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\54004743121_4199d55269_k-1920x1278.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/54004743121_4199d55269_k-480x319.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\54004743121_4199d55269_k-480x319.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/54004743121_4199d55269_k-720x479.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\54004743121_4199d55269_k-720x479.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/54004972963_62b851a6ca_k-1280x852.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\54004972963_62b851a6ca_k-1280x852.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/54004972963_62b851a6ca_k-150x100.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\54004972963_62b851a6ca_k-150x100.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/54004972963_62b851a6ca_k-1920x1278.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\54004972963_62b851a6ca_k-1920x1278.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/54004972963_62b851a6ca_k-480x319.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\54004972963_62b851a6ca_k-480x319.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/54004972963_62b851a6ca_k-720x479.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\54004972963_62b851a6ca_k-720x479.jpg
+Content Type: image/jpeg
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/airtable-example-1280x853.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\airtable-example-1280x853.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/airtable-example-150x100.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\airtable-example-150x100.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/airtable-example-480x320.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\airtable-example-480x320.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/airtable-example-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\airtable-example-720x480.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/airtable-example.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\airtable-example.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/artist-crying-1280x853.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\artist-crying-1280x853.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/artist-crying-150x100.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\artist-crying-150x100.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/artist-crying-480x320.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\artist-crying-480x320.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/artist-crying-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\artist-crying-720x480.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/artist-crying.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\artist-crying.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/artist-spotify-grid-1280x853.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\artist-spotify-grid-1280x853.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/artist-spotify-grid-150x100.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\artist-spotify-grid-150x100.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/artist-spotify-grid-480x320.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\artist-spotify-grid-480x320.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/artist-spotify-grid-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\artist-spotify-grid-720x480.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/artist-spotify-grid.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\artist-spotify-grid.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Blog-Imagea1-1280x853.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Blog-Imagea1-1280x853.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Blog-Imagea1-150x100.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Blog-Imagea1-150x100.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Blog-Imagea1-480x320.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Blog-Imagea1-480x320.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Blog-Imagea1-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Blog-Imagea1-720x480.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Blog-Imagea1.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Blog-Imagea1.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Convert-to-SVG-files-211355-01.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Convert-to-SVG-files-211355-01.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Convert-to-SVG-files-211355-02.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Convert-to-SVG-files-211355-02.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Convert-to-SVG-files-211355-06.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Convert-to-SVG-files-211355-06.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Convert-to-SVG-files-211355-07.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Convert-to-SVG-files-211355-07.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Convert-to-SVG-files-211355-08.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Convert-to-SVG-files-211355-08.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Convert-to-SVG-files-211355-11.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Convert-to-SVG-files-211355-11.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/dylan-mcleod-VRdZBLqnoMU-unsplash-1.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\dylan-mcleod-VRdZBLqnoMU-unsplash-1.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/james-owen-MuIvHRJbjA8-unsplash.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\james-owen-MuIvHRJbjA8-unsplash.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/playlist-pitch-1280x853.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\playlist-pitch-1280x853.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/playlist-pitch-150x100.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\playlist-pitch-150x100.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/playlist-pitch-480x320.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\playlist-pitch-480x320.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/playlist-pitch-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\playlist-pitch-720x480.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/playlist-pitch.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\playlist-pitch.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Recording_Academy_Logo.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Recording_Academy_Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/soundtrap-CF8fATqx6VM-unsplash-scaled.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\soundtrap-CF8fATqx6VM-unsplash-scaled.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/speaker-setup-1280x853.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\speaker-setup-1280x853.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/speaker-setup-150x100.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\speaker-setup-150x100.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/speaker-setup-480x320.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\speaker-setup-480x320.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/speaker-setup-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\speaker-setup-720x480.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/speaker-setup.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\speaker-setup.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Stefan-Accardo-150x150.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Stefan-Accardo-150x150.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Stefan-Accardo.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Stefan-Accardo.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/u8415624919_musician_writing_a_grant_proposal_on_a_laptop_at__a15fc3c5-3826-436c-b29c-0d72cd2714e3_2-150x113.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\u8415624919_musician_writing_a_grant_proposal_on_a_laptop_at__a15fc3c5-3826-436c-b29c-0d72cd2714e3_2-150x113.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/u8415624919_musician_writing_a_grant_proposal_on_a_laptop_at__a15fc3c5-3826-436c-b29c-0d72cd2714e3_2-480x362.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\u8415624919_musician_writing_a_grant_proposal_on_a_laptop_at__a15fc3c5-3826-436c-b29c-0d72cd2714e3_2-480x362.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/u8415624919_musician_writing_a_grant_proposal_on_a_laptop_at__a15fc3c5-3826-436c-b29c-0d72cd2714e3_2-720x542.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\u8415624919_musician_writing_a_grant_proposal_on_a_laptop_at__a15fc3c5-3826-436c-b29c-0d72cd2714e3_2-720x542.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/u8415624919_musician_writing_a_grant_proposal_on_a_laptop_at__a15fc3c5-3826-436c-b29c-0d72cd2714e3_2.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\u8415624919_musician_writing_a_grant_proposal_on_a_laptop_at__a15fc3c5-3826-436c-b29c-0d72cd2714e3_2.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Yudu-Teaching-BnW-Photo-1280x853.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Yudu-Teaching-BnW-Photo-1280x853.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Yudu-Teaching-BnW-Photo-150x100.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Yudu-Teaching-BnW-Photo-150x100.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Yudu-Teaching-BnW-Photo-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Yudu-Teaching-BnW-Photo-720x480.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/04/Yudu-Teaching-BnW-Photo.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\04\Yudu-Teaching-BnW-Photo.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/20160831144814-Wilson-Matt-Headshot-5x7-1-150x150.jpeg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\20160831144814-Wilson-Matt-Headshot-5x7-1-150x150.jpeg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/Berklee_Horizontal_White-2.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\Berklee_Horizontal_White-2.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/BMI-Logo_White.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\BMI-Logo_White.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/Charta_White.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\Charta_White.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-10_43_42-AM-720x720.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\ChatGPT-Image-May-21-2025-10_43_42-AM-720x720.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/ChatGPT-Image-May-29-2025-04_37_25-PM-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\ChatGPT-Image-May-29-2025-04_37_25-PM-720x480.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/ChatGPT-Image-May-9-2025-02_38_14-PM-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\ChatGPT-Image-May-9-2025-02_38_14-PM-720x480.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/Even-Logo_White.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\Even-Logo_White.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/Jasen_Samford_Headshot-150x150.webp
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\Jasen_Samford_Headshot-150x150.webp
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/KC-headshot-new.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\KC-headshot-new.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/Screenshot-2025-05-29-at-4.27.25 PM-e1748550708146-150x145.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\Screenshot-2025-05-29-at-4.27.25 PM-e1748550708146-150x145.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/Screenshot-2025-05-29-at-4.46.33 PM-148x150.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\Screenshot-2025-05-29-at-4.46.33 PM-148x150.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/Testimonial-Manny-150x150-1.webp
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\Testimonial-Manny-150x150-1.webp
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/TooLost_White.svg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\TooLost_White.svg
+Content Type: image/svg+xml
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/Untitled-1copy-1-150x150.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\Untitled-1copy-1-150x150.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/Untitled-3-150x150.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\Untitled-3-150x150.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/Untitled-design-26-720x378.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\Untitled-design-26-720x378.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/05/Vee-headshot-1920x2195.jpg
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\05\Vee-headshot-1920x2195.jpg
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-11-2025-05_21_27-PM-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\ChatGPT-Image-Jun-11-2025-05_21_27-PM-720x480.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-11-2025-05_25_58-PM-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\ChatGPT-Image-Jun-11-2025-05_25_58-PM-720x480.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-9-2025-03_33_17-PM-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\ChatGPT-Image-Jun-9-2025-03_33_17-PM-720x480.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/DSC01356-150x100.webp
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\DSC01356-150x100.webp
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Focused-on-Creativity-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Focused-on-Creativity-720x480.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Its-On-Us-to-Build-This-Right-1280x720.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Its-On-Us-to-Build-This-Right-1280x720.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Its-On-Us-to-Build-This-Right-150x84.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Its-On-Us-to-Build-This-Right-150x84.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Its-On-Us-to-Build-This-Right-480x270.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Its-On-Us-to-Build-This-Right-480x270.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Its-On-Us-to-Build-This-Right-720x405.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Its-On-Us-to-Build-This-Right-720x405.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Its-On-Us-to-Build-This-Right.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Its-On-Us-to-Build-This-Right.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Marketing-Strategy-Workspace-Snapshot-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Marketing-Strategy-Workspace-Snapshot-720x480.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Screenshot-2025-06-02-at-3.25.24 PM-150x140.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Screenshot-2025-06-02-at-3.25.24 PM-150x140.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-at-11.37.04 AM-150x147.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-at-11.37.04 AM-150x147.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-at-2.27.33 PM-150x147.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-at-2.27.33 PM-150x147.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Screenshot-2025-06-09-at-4.45.43 PM.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Screenshot-2025-06-09-at-4.45.43 PM.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Serona_Elton_Medium_Distance-e1749662928242-150x150.webp
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Serona_Elton_Medium_Distance-e1749662928242-150x150.webp
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Suz-Headshot-150x144.webp
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Suz-Headshot-150x144.webp
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_abstract_visual_of_ai_waveforms_and_artist_silhou_b71f6196-d614-4646-8a75-8c6b4c83f7db_3-150x113.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_abstract_visual_of_ai_waveforms_and_artist_silhou_b71f6196-d614-4646-8a75-8c6b4c83f7db_3-150x113.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_abstract_visual_of_ai_waveforms_and_artist_silhou_b71f6196-d614-4646-8a75-8c6b4c83f7db_3-480x362.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_abstract_visual_of_ai_waveforms_and_artist_silhou_b71f6196-d614-4646-8a75-8c6b4c83f7db_3-480x362.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_abstract_visual_of_ai_waveforms_and_artist_silhou_b71f6196-d614-4646-8a75-8c6b4c83f7db_3-720x542.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_abstract_visual_of_ai_waveforms_and_artist_silhou_b71f6196-d614-4646-8a75-8c6b4c83f7db_3-720x542.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_abstract_visual_of_ai_waveforms_and_artist_silhou_b71f6196-d614-4646-8a75-8c6b4c83f7db_3.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_abstract_visual_of_ai_waveforms_and_artist_silhou_b71f6196-d614-4646-8a75-8c6b4c83f7db_3.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_a_teen_with_headphones_on_browsing_music_on_a_tab_78dffcea-a993-45ec-bf4e-2b8361ed2296_2-150x113.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_a_teen_with_headphones_on_browsing_music_on_a_tab_78dffcea-a993-45ec-bf4e-2b8361ed2296_2-150x113.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_a_teen_with_headphones_on_browsing_music_on_a_tab_78dffcea-a993-45ec-bf4e-2b8361ed2296_2-480x362.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_a_teen_with_headphones_on_browsing_music_on_a_tab_78dffcea-a993-45ec-bf4e-2b8361ed2296_2-480x362.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_a_teen_with_headphones_on_browsing_music_on_a_tab_78dffcea-a993-45ec-bf4e-2b8361ed2296_2-720x542.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_a_teen_with_headphones_on_browsing_music_on_a_tab_78dffcea-a993-45ec-bf4e-2b8361ed2296_2-720x542.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_a_teen_with_headphones_on_browsing_music_on_a_tab_78dffcea-a993-45ec-bf4e-2b8361ed2296_2.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_a_teen_with_headphones_on_browsing_music_on_a_tab_78dffcea-a993-45ec-bf4e-2b8361ed2296_2.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_film_set_with_green_screens_-ar_43_-v_6.1_cea6ec99-45c6-403b-8f30-ac5d46aecc1b_2-150x113.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_film_set_with_green_screens_-ar_43_-v_6.1_cea6ec99-45c6-403b-8f30-ac5d46aecc1b_2-150x113.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_film_set_with_green_screens_-ar_43_-v_6.1_cea6ec99-45c6-403b-8f30-ac5d46aecc1b_2-480x362.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_film_set_with_green_screens_-ar_43_-v_6.1_cea6ec99-45c6-403b-8f30-ac5d46aecc1b_2-480x362.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_film_set_with_green_screens_-ar_43_-v_6.1_cea6ec99-45c6-403b-8f30-ac5d46aecc1b_2-720x542.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_film_set_with_green_screens_-ar_43_-v_6.1_cea6ec99-45c6-403b-8f30-ac5d46aecc1b_2-720x542.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_film_set_with_green_screens_-ar_43_-v_6.1_cea6ec99-45c6-403b-8f30-ac5d46aecc1b_2.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_film_set_with_green_screens_-ar_43_-v_6.1_cea6ec99-45c6-403b-8f30-ac5d46aecc1b_2.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_hands_on_mpc_with_digital_interface_glowing_-ar__faa5a554-bd8b-4def-abbe-56c00064590a_3-150x113.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_hands_on_mpc_with_digital_interface_glowing_-ar__faa5a554-bd8b-4def-abbe-56c00064590a_3-150x113.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_hands_on_mpc_with_digital_interface_glowing_-ar__faa5a554-bd8b-4def-abbe-56c00064590a_3-480x362.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_hands_on_mpc_with_digital_interface_glowing_-ar__faa5a554-bd8b-4def-abbe-56c00064590a_3-480x362.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_hands_on_mpc_with_digital_interface_glowing_-ar__faa5a554-bd8b-4def-abbe-56c00064590a_3-720x542.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_hands_on_mpc_with_digital_interface_glowing_-ar__faa5a554-bd8b-4def-abbe-56c00064590a_3-720x542.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_hands_on_mpc_with_digital_interface_glowing_-ar__faa5a554-bd8b-4def-abbe-56c00064590a_3.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_hands_on_mpc_with_digital_interface_glowing_-ar__faa5a554-bd8b-4def-abbe-56c00064590a_3.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_overlay_of_ai_waveform_on_crowd_of_people_-ar_43_8c7b76c8-324c-4087-b8ed-3dbc292a5ee1_0-150x113.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_overlay_of_ai_waveform_on_crowd_of_people_-ar_43_8c7b76c8-324c-4087-b8ed-3dbc292a5ee1_0-150x113.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_overlay_of_ai_waveform_on_crowd_of_people_-ar_43_8c7b76c8-324c-4087-b8ed-3dbc292a5ee1_0-480x362.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_overlay_of_ai_waveform_on_crowd_of_people_-ar_43_8c7b76c8-324c-4087-b8ed-3dbc292a5ee1_0-480x362.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_overlay_of_ai_waveform_on_crowd_of_people_-ar_43_8c7b76c8-324c-4087-b8ed-3dbc292a5ee1_0-720x542.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_overlay_of_ai_waveform_on_crowd_of_people_-ar_43_8c7b76c8-324c-4087-b8ed-3dbc292a5ee1_0-720x542.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_overlay_of_ai_waveform_on_crowd_of_people_-ar_43_8c7b76c8-324c-4087-b8ed-3dbc292a5ee1_0.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_overlay_of_ai_waveform_on_crowd_of_people_-ar_43_8c7b76c8-324c-4087-b8ed-3dbc292a5ee1_0.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_visual_elements_like_redlines_on_a_royalty_statem_1599f827-c12b-4eee-9ab8-83fb0d92074e_2-150x113.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_visual_elements_like_redlines_on_a_royalty_statem_1599f827-c12b-4eee-9ab8-83fb0d92074e_2-150x113.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_visual_elements_like_redlines_on_a_royalty_statem_1599f827-c12b-4eee-9ab8-83fb0d92074e_2-480x362.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_visual_elements_like_redlines_on_a_royalty_statem_1599f827-c12b-4eee-9ab8-83fb0d92074e_2-480x362.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_visual_elements_like_redlines_on_a_royalty_statem_1599f827-c12b-4eee-9ab8-83fb0d92074e_2-720x542.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_visual_elements_like_redlines_on_a_royalty_statem_1599f827-c12b-4eee-9ab8-83fb0d92074e_2-720x542.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/u8415624919_visual_elements_like_redlines_on_a_royalty_statem_1599f827-c12b-4eee-9ab8-83fb0d92074e_2.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\u8415624919_visual_elements_like_redlines_on_a_royalty_statem_1599f827-c12b-4eee-9ab8-83fb0d92074e_2.png
+Content Type: image/png
+
+Uri: https://247artists.com/wp-content/uploads/2025/06/Untitled-design-720x480.png
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-content\uploads\2025\06\Untitled-design-720x480.png
+Content Type: image/webp
+
+Uri: https://247artists.com/wp-includes/css/dist/components/style.min.css?ver=6.8.1
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\wp-includes\css\dist\components\style.min.css
+Content Type: text/css
+
+Uri: https://img1.wsimg.com/signals/js/clients/tti/tti.min.js
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\signals\js\clients\tti\tti.min.js
+Content Type: text/javascript
+
+Uri: https://js.hsforms.net/forms/embed/v2.js
+File Name: D:\Job Apply\CloneSite\247artists\247artists.com\forms\embed\v2.js
+Content Type: application/javascript
+
