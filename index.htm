@@ -52,7 +52,7 @@
     />
     <meta
       name="description"
-      content="The world’s most comprehensive ecosystem for creatives, combining Education Technology and a global Network of like - minded artists and industry pros."
+      content="The world's most comprehensive ecosystem for creatives, combining Education Technology and a global Network of like - minded artists and industry pros."
     />
     <meta
       name="robots"
@@ -64,7 +64,7 @@
     <meta property="og:title" content="tape.pink" />
     <meta
       property="og:description"
-      content="The world’s most comprehensive ecosystem for creatives, combining Education Technology and a global Network of like - minded artists and industry pros."
+      content="The world's most comprehensive ecosystem for creatives, combining Education Technology and a global Network of like - minded artists and industry pros."
     />
     <meta property="og:url" content="https://247artists.vercel.app//" />
     <meta property="og:site_name" content="tape.pink" />
@@ -88,7 +88,7 @@
     />
     <meta
       name="twitter:description"
-      content="The world’s most comprehensive ecosystem for creatives, combining Education Technology and a global Network of like - minded artists and industry pros."
+      content="The world's most comprehensive ecosystem for creatives, combining Education Technology and a global Network of like - minded artists and industry pros."
     />
     <meta name="twitter:site" content="@247artists" />
     <meta name="twitter:creator" content="@247artists" />
@@ -325,13 +325,15 @@
               display: flex;
               align-items: center;
               justify-content: center;
-              width: 3.8rem;
-              height: 3.8rem;
+              width: 3.6rem;
+              height: 3.6rem;
+              background: transparent;
+              border: none;
             "
           >
             <a href="https://x.com" target="_blank">
               <img
-                src="./x-logo-black.png"
+                src="./x-logo-white.png"
                 alt="tape.pink"
                 width="56"
                 height="56"
@@ -382,7 +384,7 @@
               <div
                 class="s__message__text s__message__text--small s__message__text--3 js-sentence-2"
               >
-                Earning from your music shouldn’t be gatekept. Tokenize your
+                Earning from your music shouldn't be gatekept. Tokenize your
                 rights, share with your fans, and trade transparently.
               </div>
               <!-- .s__message__text -->
@@ -393,7 +395,7 @@
               <div
                 class="s__message__text s__message__text--big s__message__text--1 js-sentence-3-text-1"
               >
-                It doesn’t
+                It doesn't
               </div>
               <!-- .s__message__text -->
               <div
@@ -487,7 +489,7 @@
               data-lg-parallax=""
               data-lg-parallax-amplitude="0.5"
             >
-              We’re building the future of music — empowering creators to
+              We're building the future of music — empowering creators to
               launch, tokenize, and trade songs as digital assets.
               <span class="t-label t-label--education">Web3</span>
               <span class="t-label t-label--technology">Ownership</span>
@@ -972,7 +974,7 @@
                     <h3 class="sb__title t-title">Song Registrations</h3>
 
                     <p class="sb__description">
-                      Simple, fast song registration to make sure everyone’s
+                      Simple, fast song registration to make sure everyone's
                       credited and paid.
                     </p>
                     <!-- .sb__description -->
@@ -1052,7 +1054,7 @@
                     </h3>
 
                     <p class="sb__description">
-                      Transparent payouts so your team always knows what they’ve
+                      Transparent payouts so your team always knows what they've
                       earned.
                     </p>
                     <!-- .sb__description -->
@@ -1116,26 +1118,12 @@
 
                 Tape
               </h2>
+              <div class="s__text rte">
+                Join a decentralized community of music creators, collectors,
+                and builders. Launch tokens, share knowledge, and grow together
+                — no middlemen, just music and the blockchain.
+              </div>
 
-              <form
-                class="early-access-form"
-                action="https://your-submission-endpoint.com"
-                method="POST"
-                style="
-                  display: flex;
-                  align-items: center;
-                  justify-content: center;
-                "
-              >
-                <input
-                  type="email"
-                  name="email"
-                  class="email-input"
-                  style="font-size: 160%; margin: 35px"
-                  placeholder="Your email address"
-                  required
-                />
-              </form>
               <!-- .s__text -->
             </div>
             <!-- .s__content -->
@@ -1220,7 +1208,7 @@
 
             <a
               class="btn-cta s__cta btn-cta--plain btn-cta--secondary btn-cta--lg"
-              href="https://my.247artists.com/auth/signup"
+              href="signup.html"
               data-plr-component="btn-cta"
             >
               <span class="btn-cta__inner"> Join the movement now </span>
@@ -1291,9 +1279,9 @@
               </p>
 
               <p class="s__text js-text rte">
-                Whether you’re negotiating a record deal, learning about
+                Whether you're negotiating a record deal, learning about
                 publishing and distribution, or want to share your longtime jazz
-                project - we’ve got you covered.
+                project - we've got you covered.
               </p>
               <!-- .s__text -->
             </div>
@@ -1312,14 +1300,43 @@
                     <!-- .sb__header__bottom -->
                   </header>
 
-                  <div class="sb__content"></div>
+                  <div class="sb__content">
+                    <ul class="sb__benefits">
+                      <li class="sb__benefit">
+                        Mint and launch your own music tokens
+                      </li>
+                      <!-- .sb__benefit -->
+                      <li class="sb__benefit">
+                        Set on-chain royalty splits with collaborators
+                      </li>
+                      <!-- .sb__benefit -->
+                      <li class="sb__benefit">
+                        Access exclusive courses on Web3, NFTs & music rights
+                      </li>
+                      <!-- .sb__benefit -->
+                      <li class="sb__benefit">
+                        Share drops and build fan-powered economies
+                      </li>
+                      <!-- .sb__benefit -->
+                      <li class="sb__benefit">
+                        Connect with a global network of tokenized creators
+                      </li>
+                      <!-- .sb__benefit -->
+                    </ul>
+                  </div>
                   <!-- .sb__content -->
 
                   <footer class="sb__footer">
                     <a
                       class="btn-cta sb__tier__cta btn-cta--plain btn-cta--secondary btn-cta--lg"
-                      href="https://my.247artists.com/auth/signup"
+                      href="#"
+                      onclick="return false;"
                       data-plr-component="btn-cta"
+                      style="
+                        pointer-events: none;
+                        cursor: not-allowed;
+                        opacity: 0.6;
+                      "
                     >
                       <span class="btn-cta__inner"> Coming Soon </span>
 
@@ -1362,14 +1379,54 @@
                     <!-- .sb__header__bottom -->
                   </header>
 
-                  <div class="sb__content"></div>
+                  <div class="sb__content">
+                    <ul class="sb__benefits">
+                      <li class="sb__benefit">
+                        Includes all free-tier benefits
+                      </li>
+                      <!-- .sb__benefit -->
+                      <li class="sb__benefit">
+                        Access to premium music tokenization workshops & smart
+                        contract templates
+                      </li>
+                      <!-- .sb__benefit -->
+                      <li class="sb__benefit">
+                        Advanced analytics for token holders and fan engagement
+                      </li>
+                      <!-- .sb__benefit -->
+                      <li class="sb__benefit">
+                        Creator DAO voting rights and governance access
+                      </li>
+                      <!-- .sb__benefit -->
+                      <li class="sb__benefit">
+                        100GB encrypted vault for stems, contracts, and NFTs
+                      </li>
+                      <!-- .sb__benefit -->
+                      <li class="sb__benefit">
+                        Priority listing on featured drops and curated artist
+                        showcases
+                      </li>
+                      <!-- .sb__benefit -->
+                      <li class="sb__benefit">
+                        Exclusive airdrops, pink-label collectibles, and artist
+                        grants
+                      </li>
+                      <!-- .sb__benefit -->
+                    </ul>
+                  </div>
                   <!-- .sb__content -->
 
                   <footer class="sb__footer">
                     <a
                       class="btn-cta sb__tier__cta btn-cta--plain btn-cta--secondary btn-cta--lg"
-                      href="https://my.247artists.com/auth/signup"
+                      href="#"
+                      onclick="return false;"
                       data-plr-component="btn-cta"
+                      style="
+                        pointer-events: none;
+                        cursor: not-allowed;
+                        opacity: 0.6;
+                      "
                     >
                       <span class="btn-cta__inner"> Coming Soon </span>
 
@@ -1414,9 +1471,9 @@
               >
                 <div class="b__text">
                   <p>
-                    Tokenizing my track on tape.pink gave me a whole new income
-                    stream — and my fans literally own part of the song. This is
-                    the next wave.
+                    I can't wait to tokenize my track on tape.pink — turning
+                    fans into co-owners is a game-changer. This isn't just music
+                    anymore, it's an economy. The next wave is coming.
                   </p>
                 </div>
 
@@ -1445,9 +1502,9 @@
               >
                 <div class="b__text">
                   <p>
-                    We used tape.pink to crowdfund our EP by launching a
-                    community token. We hit our funding goal in 48 hours — and
-                    our fans are our investors now.
+                    We're counting down to launch our first EP through
+                    tape.pink. The idea of fans becoming investors through a
+                    community token? That's the kind of future we're here for.
                   </p>
                 </div>
 
@@ -1476,9 +1533,10 @@
               >
                 <div class="b__text">
                   <p>
-                    With tape.pink, I don’t need a label to track splits, send
-                    payments, or manage contracts. Everything's automated,
-                    transparent, and mine.
+                    I'm excited for what tape.pink is building — no more chasing
+                    contracts or messy split sheets. Everything will be
+                    automated, transparent, and fully mine. Total control,
+                    finally.
                   </p>
                 </div>
 
@@ -1581,7 +1639,7 @@
               <div class="sb-faq js-faq">
                 <dt class="sb__question js-question">
                   <span class="sb__question__inner">
-                    What does a “music token” actually represent?
+                    What does a "music token" actually represent?
                   </span>
 
                   <div class="sb__toggle">
@@ -1685,7 +1743,7 @@
               <div class="sb-faq js-faq">
                 <dt class="sb__question js-question">
                   <span class="sb__question__inner">
-                    What’s the benefit of fan ownership?
+                    What's the benefit of fan ownership?
                   </span>
 
                   <div class="sb__toggle">
@@ -1842,113 +1900,7 @@
                 </dd>
                 <!-- .sb__answer -->
               </div>
-              <!-- .sb-faq -->
-              <div class="sb-faq js-faq is-hidden">
-                <dt class="sb__question js-question">
-                  <span class="sb__question__inner">
-                    How can I stay in the loop with tape.pink updates and artist
-                    drops?
-                  </span>
 
-                  <div class="sb__toggle">
-                    <div class="sb__toggle__open"></div>
-                    <div class="sb__toggle__close"></div>
-                  </div>
-                  <!-- .sb__toggle -->
-                </dt>
-                <!-- .sb__question -->
-
-                <dd class="sb__answer js-answer">
-                  <span class="sb__answer__outer">
-                    <span class="sb__answer__inner">
-                      Subscribe to our newsletter, follow us on X and Instagram,
-                      or join our Discord for real-time updates on artist drops,
-                      beta features, and community bounties.
-                    </span>
-                  </span>
-                </dd>
-                <!-- .sb__answer -->
-              </div>
-              <!-- .sb-faq -->
-              <div class="sb-faq js-faq is-hidden">
-                <dt class="sb__question js-question">
-                  <span class="sb__question__inner">
-                    What do I get by joining the tape.pink community?
-                  </span>
-
-                  <div class="sb__toggle">
-                    <div class="sb__toggle__open"></div>
-                    <div class="sb__toggle__close"></div>
-                  </div>
-                  <!-- .sb__toggle -->
-                </dt>
-                <!-- .sb__question -->
-
-                <dd class="sb__answer js-answer">
-                  <span class="sb__answer__outer">
-                    <span class="sb__answer__inner">
-                      As a member, you get early access to token tools, creator
-                      drops, education modules, governance proposals, and collab
-                      opportunities with like-minded musicians around the world.
-                    </span>
-                  </span>
-                </dd>
-                <!-- .sb__answer -->
-              </div>
-              <!-- .sb-faq -->
-              <div class="sb-faq js-faq is-hidden">
-                <dt class="sb__question js-question">
-                  <span class="sb__question__inner">
-                    How can I contribute to the community as a member?
-                  </span>
-
-                  <div class="sb__toggle">
-                    <div class="sb__toggle__open"></div>
-                    <div class="sb__toggle__close"></div>
-                  </div>
-                  <!-- .sb__toggle -->
-                </dt>
-                <!-- .sb__question -->
-
-                <dd class="sb__answer js-answer">
-                  <span class="sb__answer__outer">
-                    <span class="sb__answer__inner">
-                      You can participate in governance proposals, launch
-                      community tokens, help onboard new artists, or share your
-                      music-token journey in our channels. It’s a platform
-                      powered by its people.
-                    </span>
-                  </span>
-                </dd>
-                <!-- .sb__answer -->
-              </div>
-              <!-- .sb-faq -->
-              <div class="sb-faq js-faq is-hidden">
-                <dt class="sb__question js-question">
-                  <span class="sb__question__inner">
-                    How can I suggest features or give feedback to tape.pink?
-                  </span>
-
-                  <div class="sb__toggle">
-                    <div class="sb__toggle__open"></div>
-                    <div class="sb__toggle__close"></div>
-                  </div>
-                  <!-- .sb__toggle -->
-                </dt>
-                <!-- .sb__question -->
-
-                <dd class="sb__answer js-answer">
-                  <span class="sb__answer__outer">
-                    <span class="sb__answer__inner">
-                      Share ideas directly in our “Build With Us” Discord
-                      channel or submit feedback through your CreatorSPC
-                      dashboard. We actively co-create with our artist
-                      community.
-                    </span>
-                  </span>
-                </dd>
-                <!-- .sb__answer -->
-              </div>
               <!-- .sb-faq -->
               <div class="sb-faq js-faq is-hidden">
                 <dt class="sb__question js-question">
@@ -1993,46 +1945,20 @@
                   <span class="sb__answer__outer">
                     <span class="sb__answer__inner">
                       You can manage or cancel your subscription anytime through
-                      your CreatorSPC dashboard under “Billing & Access.” We’ll
+                      your CreatorSPC dashboard under "Billing & Access." We'll
                       be here if you ever want to rejoin the movement.
                     </span>
                   </span>
                 </dd>
                 <!-- .sb__answer -->
               </div>
-              <!-- .sb-faq -->
-              <div class="sb-faq js-faq is-hidden">
-                <dt class="sb__question js-question">
-                  <span class="sb__question__inner">
-                    How do I suggest new features or report an issue?
-                  </span>
 
-                  <div class="sb__toggle">
-                    <div class="sb__toggle__open"></div>
-                    <div class="sb__toggle__close"></div>
-                  </div>
-                  <!-- .sb__toggle -->
-                </dt>
-                <!-- .sb__question -->
-
-                <dd class="sb__answer js-answer">
-                  <span class="sb__answer__outer">
-                    <span class="sb__answer__inner">
-                      Use the “Ideas & Feedback” channel in our Discord, or
-                      click the ✨Suggest Feature button inside your dashboard.
-                      We review community feedback weekly to help shape our
-                      roadmap.
-                    </span>
-                  </span>
-                </dd>
-                <!-- .sb__answer -->
-              </div>
               <!-- .sb-faq -->
             </dl>
             <!-- .s__faqs -->
 
-            <button class="s__more js-more" data-text="View more (19)">
-              View more (19)
+            <button class="s__more js-more" data-text="View more (14)">
+              View more (14)
             </button>
 
             <canvas class="s__canvas js-canvas"></canvas>
@@ -2064,7 +1990,7 @@
 
                 <a
                   class="btn-cta s__cta js-cta btn-cta--plain btn-cta--primary btn-cta--2xl"
-                  href="https://my.247artists.com/auth/signup"
+                  href="signup.html"
                   data-plr-component="btn-cta"
                 >
                   <span class="btn-cta__inner"> Mint Your First Track </span>
@@ -2186,13 +2112,8 @@
           </div>
 
           <div class="site-foot__credits">
-            <a href="https://x.com" target="_blank">
-              <img
-                src="./x-logo-white.png"
-                alt="tape.pink"
-                width="30"
-                height="30"
-              />
+            <a href="https://hello@tape.ink" target="_blank">
+              hello@tape.ink
             </a>
           </div>
           <!-- .site-foot__credits -->
