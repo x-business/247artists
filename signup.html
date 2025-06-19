@@ -1,278 +1,298 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Join the Waitlist - tape.pink</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            padding: 20px;
-        }
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          Oxygen, Ubuntu, Cantarell, sans-serif;
+        background: linear-gradient(135deg, #cfcfcf 0%, #d92fce 100%);
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+      }
 
+      .container {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(10px);
+        border-radius: 20px;
+        padding: 40px;
+        max-width: 500px;
+        width: 100%;
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        text-align: center;
+      }
+
+      .logo {
+        margin-bottom: 30px;
+      }
+
+      .logo h1 {
+        color: #333;
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin-bottom: 10px;
+      }
+
+      .logo .tagline {
+        color: #666;
+        font-size: 1.1rem;
+        font-weight: 400;
+      }
+
+      .form-container {
+        margin-bottom: 30px;
+      }
+
+      .form-group {
+        margin-bottom: 20px;
+        text-align: left;
+      }
+
+      label {
+        display: block;
+        margin-bottom: 8px;
+        color: #333;
+        font-weight: 600;
+        font-size: 0.9rem;
+      }
+
+      input {
+        width: 100%;
+        padding: 15px;
+        border: 2px solid #e1e5e9;
+        border-radius: 10px;
+        font-size: 1rem;
+        transition: all 0.3s ease;
+        background: white;
+      }
+
+      input:focus {
+        outline: none;
+        border-color: #667eea;
+        box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+      }
+
+      .submit-btn {
+        width: 100%;
+        padding: 15px;
+        background: linear-gradient(135deg, #e7197c 0%, #764ba2 100%);
+        color: white;
+        border: none;
+        border-radius: 10px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        margin-top: 10px;
+      }
+
+      .submit-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
+      }
+
+      .submit-btn:active {
+        transform: translateY(0);
+      }
+
+      .success-message {
+        display: none;
+        background: #d4edda;
+        color: #155724;
+        padding: 20px;
+        border-radius: 10px;
+        margin-top: 20px;
+        border: 1px solid #c3e6cb;
+      }
+
+      .error-message {
+        display: none;
+        background: #f8d7da;
+        color: #721c24;
+        padding: 20px;
+        border-radius: 10px;
+        margin-top: 20px;
+        border: 1px solid #f5c6cb;
+      }
+
+      .back-link {
+        margin-top: 30px;
+      }
+
+      .back-link a {
+        color: #667eea;
+        text-decoration: none;
+        font-weight: 500;
+        transition: color 0.3s ease;
+      }
+
+      .back-link a:hover {
+        color: #764ba2;
+      }
+
+      .description {
+        color: #666;
+        margin-bottom: 30px;
+        line-height: 1.6;
+      }
+
+      @media (max-width: 480px) {
         .container {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-radius: 20px;
-            padding: 40px;
-            max-width: 500px;
-            width: 100%;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-
-        .logo {
-            margin-bottom: 30px;
+          padding: 30px 20px;
         }
 
         .logo h1 {
-            color: #333;
-            font-size: 2.5rem;
-            font-weight: 700;
-            margin-bottom: 10px;
+          font-size: 2rem;
         }
-
-        .logo .tagline {
-            color: #666;
-            font-size: 1.1rem;
-            font-weight: 400;
-        }
-
-        .form-container {
-            margin-bottom: 30px;
-        }
-
-        .form-group {
-            margin-bottom: 20px;
-            text-align: left;
-        }
-
-        label {
-            display: block;
-            margin-bottom: 8px;
-            color: #333;
-            font-weight: 600;
-            font-size: 0.9rem;
-        }
-
-        input {
-            width: 100%;
-            padding: 15px;
-            border: 2px solid #e1e5e9;
-            border-radius: 10px;
-            font-size: 1rem;
-            transition: all 0.3s ease;
-            background: white;
-        }
-
-        input:focus {
-            outline: none;
-            border-color: #667eea;
-            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
-        }
-
-        .submit-btn {
-            width: 100%;
-            padding: 15px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: white;
-            border: none;
-            border-radius: 10px;
-            font-size: 1.1rem;
-            font-weight: 600;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            margin-top: 10px;
-        }
-
-        .submit-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 10px 20px rgba(102, 126, 234, 0.3);
-        }
-
-        .submit-btn:active {
-            transform: translateY(0);
-        }
-
-        .success-message {
-            display: none;
-            background: #d4edda;
-            color: #155724;
-            padding: 20px;
-            border-radius: 10px;
-            margin-top: 20px;
-            border: 1px solid #c3e6cb;
-        }
-
-        .error-message {
-            display: none;
-            background: #f8d7da;
-            color: #721c24;
-            padding: 20px;
-            border-radius: 10px;
-            margin-top: 20px;
-            border: 1px solid #f5c6cb;
-        }
-
-        .back-link {
-            margin-top: 30px;
-        }
-
-        .back-link a {
-            color: #667eea;
-            text-decoration: none;
-            font-weight: 500;
-            transition: color 0.3s ease;
-        }
-
-        .back-link a:hover {
-            color: #764ba2;
-        }
-
-        .description {
-            color: #666;
-            margin-bottom: 30px;
-            line-height: 1.6;
-        }
-
-        @media (max-width: 480px) {
-            .container {
-                padding: 30px 20px;
-            }
-            
-            .logo h1 {
-                font-size: 2rem;
-            }
-        }
+      }
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <div class="logo">
-            <h1>tape.pink</h1>
-            <div class="tagline">Tokenize Your Sound. Own the Moment.</div>
+      <div class="logo">
+        <h1>tape.pink</h1>
+        <div class="tagline">Tokenize Your Sound. Own the Moment.</div>
+      </div>
+
+      <div class="description">
+        <p>
+          Be among the first to know when we launch. Join our exclusive waitlist
+          for early access to music tokenization.
+        </p>
+      </div>
+
+      <div class="form-container">
+        <form id="waitlistForm">
+          <div class="form-group">
+            <label for="name">Full Name</label>
+            <input
+              type="text"
+              id="name"
+              name="name"
+              required
+              placeholder="Enter your full name"
+            />
+          </div>
+
+          <div class="form-group">
+            <label for="email">Email Address</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              required
+              placeholder="Enter your email address"
+            />
+          </div>
+
+          <button type="submit" class="submit-btn">Join the Waitlist</button>
+        </form>
+
+        <div id="successMessage" class="success-message">
+          <strong>Thank you!</strong> You've been added to our waitlist. We'll
+          notify you as soon as we launch.
         </div>
 
-        <div class="description">
-            <p>Be among the first to know when we launch. Join our exclusive waitlist for early access to music tokenization.</p>
+        <div id="errorMessage" class="error-message">
+          <strong>Oops!</strong> Something went wrong. Please try again.
         </div>
+      </div>
 
-        <div class="form-container">
-            <form id="waitlistForm">
-                <div class="form-group">
-                    <label for="name">Full Name</label>
-                    <input type="text" id="name" name="name" required placeholder="Enter your full name">
-                </div>
-
-                <div class="form-group">
-                    <label for="email">Email Address</label>
-                    <input type="email" id="email" name="email" required placeholder="Enter your email address">
-                </div>
-
-                <button type="submit" class="submit-btn">Join the Waitlist</button>
-            </form>
-
-            <div id="successMessage" class="success-message">
-                <strong>Thank you!</strong> You've been added to our waitlist. We'll notify you as soon as we launch.
-            </div>
-
-            <div id="errorMessage" class="error-message">
-                <strong>Oops!</strong> Something went wrong. Please try again.
-            </div>
-        </div>
-
-        <div class="back-link">
-            <a href="index.htm">← Back to Home</a>
-        </div>
+      <div class="back-link">
+        <a href="index.htm">← Back to Home</a>
+      </div>
     </div>
 
     <script>
-        document.getElementById('waitlistForm').addEventListener('submit', function(e) {
-            e.preventDefault();
-            
-            const name = document.getElementById('name').value;
-            const email = document.getElementById('email').value;
-            
-            // Hide any existing messages
-            document.getElementById('successMessage').style.display = 'none';
-            document.getElementById('errorMessage').style.display = 'none';
-            
-            // Simple validation
-            if (!name || !email) {
-                showError('Please fill in all fields.');
-                return;
-            }
-            
-            if (!isValidEmail(email)) {
-                showError('Please enter a valid email address.');
-                return;
-            }
-            
-            // Simulate form submission (replace with actual backend integration)
-            submitForm(name, email);
+      document
+        .getElementById("waitlistForm")
+        .addEventListener("submit", function (e) {
+          e.preventDefault();
+
+          const name = document.getElementById("name").value;
+          const email = document.getElementById("email").value;
+
+          // Hide any existing messages
+          document.getElementById("successMessage").style.display = "none";
+          document.getElementById("errorMessage").style.display = "none";
+
+          // Simple validation
+          if (!name || !email) {
+            showError("Please fill in all fields.");
+            return;
+          }
+
+          if (!isValidEmail(email)) {
+            showError("Please enter a valid email address.");
+            return;
+          }
+
+          // Simulate form submission (replace with actual backend integration)
+          submitForm(name, email);
         });
-        
-        function isValidEmail(email) {
-            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-            return emailRegex.test(email);
-        }
-        
-        function submitForm(name, email) {
-            // Show loading state
-            const submitBtn = document.querySelector('.submit-btn');
-            const originalText = submitBtn.textContent;
-            submitBtn.textContent = 'Joining...';
-            submitBtn.disabled = true;
-            
-            // Simulate API call (replace with actual backend call)
-            setTimeout(() => {
-                // Store in localStorage for demo purposes
-                const waitlist = JSON.parse(localStorage.getItem('tapePinkWaitlist') || '[]');
-                waitlist.push({
-                    name: name,
-                    email: email,
-                    timestamp: new Date().toISOString()
-                });
-                localStorage.setItem('tapePinkWaitlist', JSON.stringify(waitlist));
-                
-                // Show success message
-                showSuccess();
-                
-                // Reset form
-                document.getElementById('waitlistForm').reset();
-                
-                // Reset button
-                submitBtn.textContent = originalText;
-                submitBtn.disabled = false;
-                
-                // Optional: Send to analytics or backend
-                console.log('New waitlist signup:', { name, email });
-                
-            }, 1500);
-        }
-        
-        function showSuccess() {
-            document.getElementById('successMessage').style.display = 'block';
-            document.getElementById('errorMessage').style.display = 'none';
-        }
-        
-        function showError(message) {
-            const errorDiv = document.getElementById('errorMessage');
-            errorDiv.innerHTML = `<strong>Error:</strong> ${message}`;
-            errorDiv.style.display = 'block';
-            document.getElementById('successMessage').style.display = 'none';
-        }
+
+      function isValidEmail(email) {
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        return emailRegex.test(email);
+      }
+
+      function submitForm(name, email) {
+        // Show loading state
+        const submitBtn = document.querySelector(".submit-btn");
+        const originalText = submitBtn.textContent;
+        submitBtn.textContent = "Joining...";
+        submitBtn.disabled = true;
+
+        // Simulate API call (replace with actual backend call)
+        setTimeout(() => {
+          // Store in localStorage for demo purposes
+          const waitlist = JSON.parse(
+            localStorage.getItem("tapePinkWaitlist") || "[]"
+          );
+          waitlist.push({
+            name: name,
+            email: email,
+            timestamp: new Date().toISOString(),
+          });
+          localStorage.setItem("tapePinkWaitlist", JSON.stringify(waitlist));
+
+          // Show success message
+          showSuccess();
+
+          // Reset form
+          document.getElementById("waitlistForm").reset();
+
+          // Reset button
+          submitBtn.textContent = originalText;
+          submitBtn.disabled = false;
+
+          // Optional: Send to analytics or backend
+          console.log("New waitlist signup:", { name, email });
+        }, 1500);
+      }
+
+      function showSuccess() {
+        document.getElementById("successMessage").style.display = "block";
+        document.getElementById("errorMessage").style.display = "none";
+      }
+
+      function showError(message) {
+        const errorDiv = document.getElementById("errorMessage");
+        errorDiv.innerHTML = `<strong>Error:</strong> ${message}`;
+        errorDiv.style.display = "block";
+        document.getElementById("successMessage").style.display = "none";
+      }
     </script>
-</body>
-</html> 
+  </body>
+</html>
